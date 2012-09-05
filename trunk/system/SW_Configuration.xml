@@ -1,0 +1,12 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SGH-T999</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>T999TMB</CSCName>
+	<CSCVersion>DLH3</CSCVersion>
+	<NbCustomer>1</NbCustomer>
+	<CustomerData src="/Customer/TMB/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>
