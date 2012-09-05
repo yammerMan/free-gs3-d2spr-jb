@@ -1,0 +1,18 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<CustomerData>
+	<BrowserData>
+    <HomePage>
+      <URL>http://home.web2go.com</URL>
+    </HomePage>
+  </BrowserData>
+  <LatinIME>
+    <VibrateOn>on</VibrateOn>
+    <SoundOn>on</SoundOn>
+  </LatinIME>
+  <DefaultInputMethod>
+	<input_method>com.sec.android.inputmethod</input_method>
+  </DefaultInputMethod>
+  <SamsungKeypad>
+    <CONTINUOUS_INPUT>ON</CONTINUOUS_INPUT>
+  </SamsungKeypad>
+</CustomerData>
